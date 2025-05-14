@@ -4,6 +4,7 @@
 This project is an AI-powered agent built using LangChain, integrated with PostgreSQL and powered by the GROQ API (LLM), designed to assist with data governance tasks such as metadata analysis, data quality checks, PII identification, SQL generation, and more.
 
 🧠 Features
+
 ✅ Natural Language to SQL Queries
 
 ✅ Analyze metadata from PostgreSQL (catalog, lineage, etc.)
